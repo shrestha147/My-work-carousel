@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+#apps {
+    background-color: cyan;
+    width: 100%;
+    height: 800px;
+}
+
+.line {
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+#mycarousel {
+    background-color: #fff000;
+}
+
+#chatbot {
+    background-color: darkred;
+    width: 100%;
+    height: 800px;
+}
+
+#mycarousel img {
+    height: 300px;
+    width: 90%;
+    margin-top: 30px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
